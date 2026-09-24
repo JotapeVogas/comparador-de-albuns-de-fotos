@@ -1,0 +1,28 @@
+--- Fotos e Imagens Locais ---
+
+imagens/
+
+--- Ambiente Virtual Python ---
+
+venv/
+env/
+ENV/
+.venv/
+
+--- Cache do Python ---
+
+pycache/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+--- VS Code ---
+
+.vscode/
+.history/
+
+--- Diversos e Sistema Operacional ---
+
+.DS_Store
+Thumbs.db
+*.log
